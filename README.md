@@ -20,7 +20,9 @@ The second button is named "left",
 The third button is named "forward",
 The fourth button is named "backward",
 And the fifth button is named "stop".
-After building the page, I connected it through the code to the database that was designed to receive the data. Finally, I now have a web page that is connected to the database.![web](https://github.com/Shatha-alghamdi/task1_wabpage/assets/173706655/a2464f80-a474-481a-bbd6-fa16720a7faa)
+After building the page, I connected it through the code to the database that was designed to receive the data. Finally, I now have a web page that is connected to the 
+##The Imeg Page
+database.![web](https://github.com/Shatha-alghamdi/task1_wabpage/assets/173706655/a2464f80-a474-481a-bbd6-fa16720a7faa)
 ![database](https://github.com/Shatha-alghamdi/task1_wabpage/assets/173706655/741ac568-c71f-4382-80a4-c7893ba70b82)
 
 
