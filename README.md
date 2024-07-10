@@ -15,11 +15,17 @@ create 2 columns - the first one for the user, and the second one to store and d
 
 After building the database table, it became ready to receive the web page data.
 Then, I built the web page, which contains 5 buttons:
+
 The first button is named "right",
+
 The second button is named "left",
+
 The third button is named "forward",
+
 The fourth button is named "backward",
+
 And the fifth button is named "stop".
+
 After building the page, I connected it through the code to the database that was designed to receive the data. Finally, I now have a web page that is connected to the database.
 
 
